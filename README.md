@@ -1,2 +1,2 @@
 # hello-world
-My first repository.
+Hello, I'm Robert. I'm graduating high school in a couple months.
